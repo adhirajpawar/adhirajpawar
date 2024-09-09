@@ -34,13 +34,13 @@ I'm an Web Development and Cloud Computing enthusiast with a passion for develop
 - Configured Amazon Route 53 for efficient domain management and DNS routing.
 
 ### DiabeSafe: AI Prediction for Diabetes Management
-- [GitHub]((https://github.com/adhirajpawar/Diabetes-prediction))
+- [GitHub](https://github.com/adhirajpawar/Diabetes-prediction)
 - Launched a machine learning model using the Kaggle Diabetes Database, achieving a prediction accuracy of 85%.
 - Conducted data preprocessing, cleaning, and feature engineering, boosting model performance by 25% accuracy
 -  Created an interactive UX with Streamlit, enhancing user engagement by 40%.
 
 ### Ochi-Presentation
-- [GitHub](https://github.com/adhirajpawar/Ochi-Presentation))
+- [GitHub](https://github.com/adhirajpawar/Ochi-Presentation)
 -  Engineered a dynamic presentation app using React, Vite, and Tailwind CSS for rapid loading and streamlined UX.
 -  Implemented responsive design, increasing user accessibility by 20%.
 -  • Utilized Vite for efficient bundling and workflow, enhancing overall project performance and maintainability.
