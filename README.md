@@ -1,54 +1,98 @@
-<h1 align="center">Hi 👋, I'm Adhiraj Pawar</h1>
-<h3 align="center">A passionate frontend developer</h3>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Adhiraj-Pawar&label=Profile%20views&color=0e75b6&style=flat" alt="Adhiraj-Pawar" />
-</p>
-
-<p align="left">
-  - 🔭 I’m currently working on <strong>Front-end development and Cloud Computing.</strong><br>
-  - 🌱 I’m currently learning <strong>Python</strong><br>
-  - 💬 Ask me about <strong>HTML, CSS, Python, Tech and Cars</strong><br>
-  - 📫 How to reach me <strong>adhirajpawar1124@gmail.com</strong>
-</p>
+# Hello there! 👋 I'm Adhiraj Arvind Pawar
 
 <p align="center">
   <img src="https://i.redd.it/n8agw6z2smyb1.gif" width="1100">
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://x.com/Adhiraj_Pawar11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pi_ratez" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/adhiraj-pawar-63790a226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil-bhoite" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/adhiraj_pawar_1124/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahil.ipynb" height="30" width="40" /></a>
+<p align="start">
+  <img src="https://profile-counter.glitch.me/{SahilBhoite}/count.svg" alt="Visitor Count" width="180" height="24" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-</p>
+I'm an Web Development and Cloud Computing enthusiast with a passion for developing innovative solutions. Currently pursuing my Bachelor of Technology in Information Technology  at P.E.S. Modern College of Engineering, Pune. I have experience in various Web Development, AWS projects and internships.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adhirajpawar&show_icons=true&locale=en&layout=compact" alt="adhirajpawar" /></p>
+## 🎓 Education
 
+- **PES Modern College of Engineering, Pune (Savitribai Phule Pune University)**
+  - Bachelor of Technology in Information Technology
+  - 2021–2025
+  - GPA: 7/10
 
+## 💼 Experience
+
+### OctaNet Services Pvt. Ltd.
+**Web Developer Intern** | Jan 2024–April 2024 | Pune, Maharashtra
+- Increased user engagement by 30% by applying responsive design principles.
+- Enhanced user interaction satisfaction by 20% through unified JavaScript implementation for dynamic elements.
+- Optimized task organization and workflow management applications, leading to a 15% rise in productivity.
+- 
+## 🚀 Projects
+
+### AWS: To host a Website: Amazon S3 
+- [GitHub](https://github.com/adhirajpawar)
+- Amazon S3 (Simple Storage Service), Amazon Route 53, Amazon CloudFront.
+- Implemented a static website hosting solution using Amazon S3, demonstrating practical knowledge of cloud services.
+- Configured Amazon Route 53 for efficient domain management and DNS routing.
+
+### DiabeSafe: AI Prediction for Diabetes Management
+- [GitHub]((https://github.com/adhirajpawar/Diabetes-prediction))
+- Launched a machine learning model using the Kaggle Diabetes Database, achieving a prediction accuracy of 85%.
+- Conducted data preprocessing, cleaning, and feature engineering, boosting model performance by 25% accuracy
+-  Created an interactive UX with Streamlit, enhancing user engagement by 40%.
+
+### Ochi-Presentation
+- [GitHub](https://github.com/adhirajpawar/Ochi-Presentation))
+-  Engineered a dynamic presentation app using React, Vite, and Tailwind CSS for rapid loading and streamlined UX.
+-  Implemented responsive design, increasing user accessibility by 20%.
+-  • Utilized Vite for efficient bundling and workflow, enhancing overall project performance and maintainability.
+
+### MINIX: Multifunctional Interface for Notes, Ideation, and Xcollaboration
+- [GitHub](https://github.com/adhirajpawar/MINIX)
+- Tech Stack: Computer Vision, TensorFlow/PyTorch, Artificial Sensors, Neural Networks, V2X Protocols, Edge AI
+- Mastered high-accuracy computer vision with neural networks for obstacle classification & refined car control
+- Improved deep learning models to reduce inference latency by 15%, enabling real-time autonomous driving decisions.
+
+## 🛠 Technical Skills
+
+### Programming & Web Technologies
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+
+### AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white)
+
+### Data Science & Analytics
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-%23007ACC.svg?style=flat&logo=Seaborn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=flat&logo=sql&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+
+### Frameworks & Tools
+![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=flat&logo=LangChain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?style=flat&logo=Hugging-Face&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=flat&logo=Streamlit&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-%23000000.svg?style=flat&logo=Ollama&logoColor=white)
+
+## 🏆 Achievements
+
+- Selected at: Amazon ML Summer School 2024
+- 4th Position: Unstop Talent Park
+- 4th Position: FINquest 5.0 by IIM
+
+## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adhiraj-pawar/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/Adhiraj_Pawar11)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:work.adhirajpawar@gmail.com)
