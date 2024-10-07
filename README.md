@@ -4,9 +4,7 @@
   <img src="https://i.redd.it/n8agw6z2smyb1.gif" width="1100">
 </p>
 
-<p align="start">
-  <img src="https://profile-counter.glitch.me/{SahilBhoite}/count.svg" alt="Visitor Count" width="180" height="24" />
-</p>
+
 
 I'm an Web Development and Cloud Computing enthusiast with a passion for developing innovative solutions. Currently pursuing my Bachelor of Technology in Information Technology  at P.E.S. Modern College of Engineering, Pune. I have experience in various Web Development, AWS projects and internships.
 
