@@ -83,12 +83,6 @@ I'm an Web Development and Cloud Computing enthusiast with a passion for develop
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=flat&logo=Streamlit&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-%23000000.svg?style=flat&logo=Ollama&logoColor=white)
 
-## 🏆 Achievements
-
-- Selected at: Amazon ML Summer School 2024
-- 4th Position: Unstop Talent Park
-- 4th Position: FINquest 5.0 by IIM
-
 ## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adhiraj-pawar/)
