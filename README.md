@@ -22,7 +22,7 @@ I'm an Web Development and Cloud Computing enthusiast with a passion for develop
 - Increased user engagement by 30% by applying responsive design principles.
 - Enhanced user interaction satisfaction by 20% through unified JavaScript implementation for dynamic elements.
 - Optimized task organization and workflow management applications, leading to a 15% rise in productivity.
-- 
+ 
 ## 🚀 Projects
 
 ### AWS: To host a Website: Amazon S3 
