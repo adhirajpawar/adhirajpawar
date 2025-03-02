@@ -1,6 +1,5 @@
 # Hello there! 👋 I'm Adhiraj Arvind Pawar
 
-
 <p align="center">
   <img src="https://i.redd.it/n8agw6z2smyb1.gif" width="1100">
 </p>
