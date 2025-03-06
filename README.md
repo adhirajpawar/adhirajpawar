@@ -2,8 +2,7 @@
 
 
 <p align="center">
-  <img src="![Uploading Code Coding GIF - Code Coding Programming - Discover & Share GIFs.gif…]()
-" width="1100">
+  <img src="https://in.pinterest.com/pin/410249847315311280/" width="1100">
 </p>
 
 I'm an Web Development and Cloud Computing enthusiast with a passion for developing innovative solutions. Currently pursuing my Bachelor of Technology in Information Technology  at P.E.S. Modern College of Engineering, Pune. I have experience in various Web Development, AWS projects and internships.
