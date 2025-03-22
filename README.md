@@ -54,7 +54,7 @@ I'm an Web Development and Cloud Computing enthusiast with a passion for develop
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/cpp-%23ED8B00.svg?style=flat&logo=cpp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![React.js](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![React.js](https://img.shields.io/badge/react.js-%23323330.svg?style=flat&logo=react.js&logoColor=%23F7DF1E)
 ![Node.js](https://img.shields.io/badge/node.js-%23323330.svg?style=flat&logo=node.js&logoColor=%23F7DF1E)
 ![SQL](https://img.shields.io/badge/sql-%23323330.svg?style=flat&logo=sql&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
