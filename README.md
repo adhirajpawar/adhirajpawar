@@ -15,6 +15,16 @@ I'm an Web Development and Cloud Computing enthusiast with a passion for develop
   - GPA: 7/10
 
 ## 💼 Experience
+## Internship at DvijTech
+🔹 **Role:** Software Engineer  
+🔹 **Company:** [DvijTech](https://dvijtech.com/)  
+🔹 **Duration:** 23th Feb - Present  
+🔹 **Technologies:** C++, Node.js, Express, MYSQL, MongoDB, API Development, Documentation  
+🔹 **Responsibilities:**
+  - Developing backend services and APIs
+  - Writing technical documentation
+  - Optimizing server-side logic and database queries
+  - Collaborating with frontend and DevOps teams
 
 ### OctaNet Services Pvt. Ltd.
 **Web Developer Intern** | Jan 2024–April 2024 | Pune, Maharashtra
