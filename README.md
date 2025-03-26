@@ -14,7 +14,7 @@ I'm an Web Development and Cloud Computing enthusiast with a passion for develop
   - 2021–2025
   - GPA: 7/10
 
-## 💼 Experience
+##💼 Experience
 ## Internship at DvijTech
 🔹 **Role:** Software Engineer  
 🔹 **Company:** [DvijTech](https://dvijtech.com/)  
@@ -26,7 +26,7 @@ I'm an Web Development and Cloud Computing enthusiast with a passion for develop
   - Optimizing server-side logic and database queries
   - Collaborating with frontend and DevOps teams
 
-### OctaNet Services Pvt. Ltd.
+## 💻OctaNet Services Pvt. Ltd.
 **Web Developer Intern** | Jan 2024–April 2024 | Pune, Maharashtra
 - Increased user engagement by 30% by applying responsive design principles.
 - Enhanced user interaction satisfaction by 20% through unified JavaScript implementation for dynamic elements.
