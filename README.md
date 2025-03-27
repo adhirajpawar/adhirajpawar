@@ -14,7 +14,7 @@ I'm an Web Development and Cloud Computing enthusiast with a passion for develop
   - 2021–2025
   - GPA: 7/10
 
-##💼 Experience
+## 💼 Experience
 ## Internship at DvijTech
 🔹 **Role:** Software Engineer  
 🔹 **Company:** [DvijTech](https://dvijtech.com/)  
