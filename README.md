@@ -94,6 +94,15 @@ I'm an Web Development and Cloud Computing enthusiast with a passion for develop
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?style=flat&logo=Hugging-Face&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=flat&logo=Streamlit&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-%23000000.svg?style=flat&logo=Ollama&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=React&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat&logo=Tailwind%20CSS&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=Node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=Express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=MongoDB&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23004764.svg?style=flat&logo=PostgreSQL&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=MySQL&logoColor=white)
+
+
 
 ## 🌐 Connect with me
 
