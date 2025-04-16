@@ -111,4 +111,7 @@ I'm an Web Development and Cloud Computing enthusiast with a passion for develop
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:work.adhirajpawar@gmail.com)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23FF5C00.svg?style=flat&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/adhiraj_p_1124)
 [![Naukri](https://img.shields.io/badge/Naukri-%230070B9.svg?style=flat&logo=Naukri&logoColor=white)](https://www.naukri.com/code360/profile/Adhiraj)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=GitHub&logoColor=white)](https://adhirajpawar.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FFFFFF.svg?style=flat&logo=portfolio&logoColor=black)](https://adhirajpawar.github.io/Portfolio/)
+
+
+
