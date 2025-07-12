@@ -5,7 +5,7 @@
   <img src="https://camo.githubusercontent.com/129463490889ef4c7bcdfaeb4afa3f6e93b223ead98b5021b175085440da90e2/68747470733a2f2f692e726564642e69742f6e38616777367a32736d7962312e676966" width="1100">
 </p>
 
-I'm an Web Development and Cloud Computing enthusiast with a passion for developing innovative solutions. Currently pursuing my Bachelor of Technology in Information Technology  at P.E.S. Modern College of Engineering, Pune. I have experience in various Web Development, AWS projects and internships.
+I'm a Web Development and Cloud Computing enthusiast with a passion for developing innovative solutions. Currently pursuing my Bachelor of Technology in Information Technology  at P.E.S. Modern College of Engineering, Pune. I have experience in various Web Development, AWS projects and internships.
 
 ## 🎓 Education
 
