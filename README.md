@@ -12,13 +12,13 @@ I'm a Web Development and Cloud Computing enthusiast with a passion for developi
 - **PES Modern College of Engineering, Pune (Savitribai Phule Pune University)**
   - Bachelor of Technology in Information Technology
   - 2021–2025
-  - GPA: 7/10
+  - CGPA: 7.41/10
 
 ## 💼 Experience
 ## Internship at DvijTech
 🔹 **Role:** Software Engineer  
 🔹 **Company:** [DvijTech](https://dvijtech.com/)  
-🔹 **Duration:** 23th Feb - Present  
+🔹 **Duration:** 23th Feb - 23 May
 🔹 **Technologies:** C++, Node.js, Express, MYSQL, MongoDB, API Development, Documentation  
 🔹 **Responsibilities:**
   - Developing backend services and APIs
