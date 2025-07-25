@@ -18,7 +18,7 @@ I'm a Web Development and Cloud Computing enthusiast with a passion for developi
 ## Internship at DvijTech
 🔹 **Role:** Software Engineer  
 🔹 **Company:** [DvijTech](https://dvijtech.com/)  
-🔹 **Duration:** 23th Feb - 23 May
+🔹 **Duration:** Feb 2025 - May 2025
 🔹 **Technologies:** C++, Node.js, Express, MYSQL, MongoDB, API Development, Documentation  
 🔹 **Responsibilities:**
   - Developing backend services and APIs
@@ -26,8 +26,12 @@ I'm a Web Development and Cloud Computing enthusiast with a passion for developi
   - Optimizing server-side logic and database queries
   - Collaborating with frontend and DevOps teams
 
-## 💻OctaNet Services Pvt. Ltd.
-**Web Developer Intern** | Jan 2024–April 2024 | Pune, Maharashtra
+## Internship at OctaNet Services Pvt. Ltd.
+🔹 **Role:** Web Developer Intern  
+🔹 **Company:** [Octanet](https://octanet.in/)  
+🔹 **Duration:** Feb 2024 - May 2024
+🔹 **Technologies:** C++, Node.js, Express, MYSQL, MongoDB, API Development, Documentation  
+🔹 **Responsibilities:**
 - Increased user engagement by 30% by applying responsive design principles.
 - Enhanced user interaction satisfaction by 20% through unified JavaScript implementation for dynamic elements.
 - Optimized task organization and workflow management applications, leading to a 15% rise in productivity.
